@@ -1,0 +1,28 @@
+# Dépendances
+node_modules/
+
+# Fichiers générés par Vite
+dist/
+dist-ssr/
+
+# Variables d'environnement locales
+.env
+.env.local
+.env.*.local
+
+# Journaux
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache et fichiers temporaires
+.vite/
+*.tsbuildinfo
+
+# Éditeurs et système
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
