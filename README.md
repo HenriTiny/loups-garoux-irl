@@ -1,6 +1,12 @@
 # Loups Garous
 
-Une interface web pour préparer une partie de **Loups-Garous** àjouer entre amis. Le narrateur de la partie peut: ajouter les participants, choisir les rôles à jouer, distribuer les cartes secrètes, jouer des fonds sonores pour une meilleur ambiance.
+Une interface web pour préparer une partie de **Loups-Garous** à jouer entre amis. Le narrateur de la partie peut: ajouter les participants, choisir les rôles à jouer, distribuer les cartes secrètes, jouer des fonds sonores pour une meilleur ambiance.
+
+![Screenshot](/assets/images/screenshot.jpg "Screenshot Loups-garoux by Henri Issoufou")
+
+## Demo
+
+Lancer la [démo](https://loups-garoux-irl.vercel.app "Loups-garoux by Henri Issoufou") en ligne pour y jouer.
 
 ## Fonctionnalités
 
