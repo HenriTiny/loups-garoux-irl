@@ -1,8 +1,8 @@
+![Screenshot](src/assets/images/screenshot.jpg "Screenshot Loups-garoux by Henri Issoufou")
+
 # Loups Garous
 
 Une interface web pour préparer une partie de **Loups-Garous** à jouer entre amis. Le narrateur de la partie peut: ajouter les participants, choisir les rôles à jouer, distribuer les cartes secrètes, jouer des fonds sonores pour une meilleur ambiance.
-
-![Screenshot](src/assets/images/screenshot.jpg "Screenshot Loups-garoux by Henri Issoufou")
 
 ## Demo
 
